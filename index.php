@@ -111,7 +111,7 @@
     </div>
     
     <div style="width:100%;margin:0 auto; padding:20px 0;text-align:center">
-	<p>获取本站源码： <a href="https://github.com/mcbianxiao/Anti-Fruad/" style="text-decoration: none;color: #939393">GitHub</a></p>
+	<p>获取本站源码： <a target="_blank" href="https://github.com/mcbianxiao/Anti-Fruad/" style="text-decoration: none;color: #939393">GitHub</a></p>
 	<p>网页源码技术支持：DeepSeek</p>
     
   </div>
