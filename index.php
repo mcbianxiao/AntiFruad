@@ -142,4 +142,7 @@
 </html>
 
 
-<!-- 本站源码 https://github.com/mcbianxiao/Anti-Fruad/ -->
+<!-- 既然你看到这里了，那我就把本站源码告诉你吧 :) -->
+<!-- 本站源码： https://github.com/mcbianxiao/Anti-Fruad/ -->
+<!-- Since you're here, I'll just let you in on the source code of this site :) -->
+<!-- Source code: https://github.com/mcbianxiao/Anti-Fruad/ -->
